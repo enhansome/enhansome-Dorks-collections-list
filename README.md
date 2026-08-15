@@ -31,7 +31,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,262 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,263 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 251 | 🐛 0 | 📅 2026-04-06</br>
 <https://github.com/H4CK3RT3CH/github-dorks> ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 18 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
@@ -84,12 +84,12 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 <h1>Google dorks</h1>
 
 <https://github.com/BullsEye0/google_dork_list> ⭐ 1,896 | 🐛 1 | 📅 2026-08-02</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,068 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,070 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 141 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 40 | 🐛 0 | 📅 2014-07-28</br>
 <https://github.com/arimogi/Google-Dorks> ⭐ 54 | 🐛 0 | 📅 2015-11-07</br>
-<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 182 | 🐛 0 | 📅 2022-08-04</br>
+<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 183 | 🐛 0 | 📅 2022-08-04</br>
 
 <a name="oniondorks"></a>
 
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
