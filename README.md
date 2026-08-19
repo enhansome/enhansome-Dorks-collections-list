@@ -31,7 +31,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,264 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,266 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 251 | 🐛 0 | 📅 2026-04-06</br>
 <https://github.com/H4CK3RT3CH/github-dorks> ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
