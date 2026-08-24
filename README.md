@@ -84,7 +84,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 <h1>Google dorks</h1>
 
 <https://github.com/BullsEye0/google_dork_list> ⭐ 1,905 | 🐛 1 | 📅 2026-08-02</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,087 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,086 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 141 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 40 | 🐛 0 | 📅 2014-07-28</br>
@@ -257,7 +257,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 | PyDork                                                                      | <https://github.com/blacknon/pydork> ⭐ 90 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-03                      |
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 153 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
-| ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 444 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
+| ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 445 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
 | Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,387 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
 | GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,300 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |

@@ -1,7 +1,329 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Many dorks for Github can also be used when searching other code hosting services (Bitbucket, Gitlab, Codeberg etc). You can use the special Google Custom Search Engine to search 20 code hosting services at a time https://cipher387.github.io/code_repository_google_custom_search_engines/\n15K dorks to find vulnerable pages related to cryptocurrency exchanges, cryptocurrency payments, etc. https://www.scribd.com/document/384770530/15k-Btc-Dorks\n18K Bitcoin and other cryptocurency related dorks https://pdfcoffee.com/18k-bitcoin-dorks-list--3-pdf-free.html\nThank you for following me! @cyb_detective",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/netlas-io/netlas-dorks",
+          "description": "https://github.com/netlas-io/netlas-cookbook",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 628956752,
+            "language": null,
+            "last_commit": "2026-04-24T09:32:52Z",
+            "owner": "netlas-io",
+            "repo": "netlas-dorks",
+            "stars": 207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/techgaun/github-dorks",
+          "description": "https://github.com/jcesarstef/ghhdb-Github-Hacking-Database https://github.com/H4CK3RT3CH/github-dorks https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt (for finding files)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44060490,
+            "language": "Python",
+            "last_commit": "2025-10-05T15:51:55Z",
+            "owner": "techgaun",
+            "repo": "github-dorks",
+            "stars": 3268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Neo23x0/vti-dorks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163669434,
+            "language": null,
+            "last_commit": "2023-05-16T07:49:17Z",
+            "owner": "Neo23x0",
+            "repo": "vti-dorks",
+            "stars": 333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/iGotRootSRC/Dorkers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188596866,
+            "language": null,
+            "last_commit": "2020-03-03T21:26:44Z",
+            "owner": "iGotRootSRC",
+            "repo": "Dorkers",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/d34dfr4m3/goDuck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164377297,
+            "language": "Python",
+            "last_commit": "2019-01-11T19:46:26Z",
+            "owner": "d34dfr4m3",
+            "repo": "goDuck",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Zarcolio/sitedorks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 256770027,
+            "language": "Python",
+            "last_commit": "2026-08-18T21:14:21Z",
+            "owner": "Zarcolio",
+            "repo": "sitedorks",
+            "stars": 1053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/BullsEye0/google_dork_list",
+          "description": "https://github.com/sushiwushi/bug-bounty-dorks https://github.com/rootac355/SQL-injection-dorks-list https://github.com/unexpectedBy/SQLi-Dork-Repository https://github.com/thomasdesr/Google-dorks https://github.com/arimogi/Google-Dorks https://github.com/aleedhillon/7000-Google-Dork-List",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205915356,
+            "language": null,
+            "last_commit": "2026-08-02T08:39:11Z",
+            "owner": "BullsEye0",
+            "repo": "google_dork_list",
+            "stars": 1905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 408084679,
+            "language": null,
+            "last_commit": "2025-04-11T03:29:15Z",
+            "owner": "cipher387",
+            "repo": "Dorks-collections-list",
+            "stars": 2731
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Google Dorks Scan",
+          "description": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261533481,
+            "language": "Shell",
+            "last_commit": "2025-07-10T12:59:07Z",
+            "owner": "IvanGlinkin",
+            "repo": "Fast-Google-Dorks-Scan",
+            "stars": 1742
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyDork",
+          "description": "https://github.com/blacknon/pydork",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457665481,
+            "language": "Python",
+            "last_commit": "2026-05-03T22:37:50Z",
+            "owner": "blacknon",
+            "repo": "pydork",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "0xDork",
+          "description": "https://github.com/rlyonheart/0xdork",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 415339069,
+            "language": null,
+            "last_commit": "2022-04-02T12:18:29Z",
+            "owner": "rly0nheart",
+            "repo": "0xdork",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDorker",
+          "description": "https://github.com/TheSpeedX/SDorker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145284204,
+            "language": "Shell",
+            "last_commit": "2023-09-29T09:11:08Z",
+            "owner": "TheSpeedX",
+            "repo": "SDorker",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASHOK (osint swiss knife)",
+          "description": "https://github.com/ankitdobhal/Ashok",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 259674025,
+            "language": "Python",
+            "last_commit": "2022-01-25T12:44:21Z",
+            "owner": "powerexploit",
+            "repo": "Ashok",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Padago (Automate Google Hacking Database scraping and searching)",
+          "description": "https://github.com/opsdisk/pagodo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66045666,
+            "language": "Python",
+            "last_commit": "2025-12-01T16:24:43Z",
+            "owner": "opsdisk",
+            "repo": "pagodo",
+            "stars": 3387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Katana (Python tool that automates Google Hacking/Dorking and supports Tor)",
+          "description": "https://github.com/TebbaaX/Katana",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 245523603,
+            "language": "Python",
+            "last_commit": "2025-07-02T00:26:17Z",
+            "owner": "c4tcom",
+            "repo": "Katana",
+            "stars": 1304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GO Dork (fast google search result scanner)",
+          "description": "https://github.com/dwisiswant0/go-dork",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279402524,
+            "language": "Go",
+            "last_commit": "2024-02-04T08:28:00Z",
+            "owner": "dwisiswant0",
+            "repo": "go-dork",
+            "stars": 1300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snitch",
+          "description": "https://github.com/Smaash/snitch",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38835809,
+            "language": "Python",
+            "last_commit": "2022-04-19T20:46:40Z",
+            "owner": "Smaash",
+            "repo": "snitch",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dorks Eye",
+          "description": "https://github.com/BullsEye0/dorks-eye",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260192624,
+            "language": "Python",
+            "last_commit": "2026-08-02T08:36:33Z",
+            "owner": "BullsEye0",
+            "repo": "dorks-eye",
+            "stars": 908
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLI Dorks generator",
+          "description": "https://github.com/Zold1/sqli-dorks-generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 507424750,
+            "language": "Python",
+            "last_commit": "2024-12-06T03:30:35Z",
+            "owner": "AhmedOsamaMath",
+            "repo": "sqli-dorks-generator",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSH - Discord Server Hunter",
+          "description": "https://github.com/falkensmz/dsh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 518875649,
+            "language": "Python",
+            "last_commit": "2022-07-29T15:39:22Z",
+            "owner": "falkensmz",
+            "repo": "dsh",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dork hunter",
+          "description": "https://github.com/six2dez/dorks_hunter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 520860357,
+            "language": "Python",
+            "last_commit": "2026-07-14T07:59:31Z",
+            "owner": "six2dez",
+            "repo": "dorks_hunter",
+            "stars": 345
+          }
+        }
+      ],
+      "title": "Overview"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T08:05:32.668Z",
+    "last_updated": "2026-08-24T14:05:40.575Z",
     "original_repository": "cipher387/Dorks-collections-list",
     "original_repository_id": 408084679,
     "original_repository_sha": "207261a3d16dac770d59939f4eb228b8d792a6c8",
