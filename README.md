@@ -24,14 +24,14 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Netlas dorks</h2>
 
-<https://github.com/netlas-io/netlas-dorks> ⭐ 207 | 🐛 0 | 📅 2026-04-24\
+<https://github.com/netlas-io/netlas-dorks> ⭐ 208 | 🐛 0 | 📅 2026-04-24\
 <https://github.com/netlas-io/netlas-cookbook> ⭐ 889 | 🐛 0 | 🌐 Python | 📅 2025-06-27
 
 <a name="githubdorks"></a>
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,268 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,269 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 251 | 🐛 0 | 📅 2026-04-06</br>
 <https://github.com/H4CK3RT3CH/github-dorks> ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
@@ -83,8 +83,8 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h1>Google dorks</h1>
 
-<https://github.com/BullsEye0/google_dork_list> ⭐ 1,905 | 🐛 1 | 📅 2026-08-02</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,086 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/BullsEye0/google_dork_list> ⭐ 1,906 | 🐛 1 | 📅 2026-08-02</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,087 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 141 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 40 | 🐛 0 | 📅 2014-07-28</br>
@@ -243,7 +243,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 <h2>Dorks from realDumbleDork posts</h2>
 
-<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,731 | 🐛 2 | 📅 2025-04-11
+<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,732 | 🐛 2 | 📅 2025-04-11
 
 <h1>TOOLS</h1>
 
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

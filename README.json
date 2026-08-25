@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/netlas-io/netlas-dorks",
+          "title": "netlas-io/netlas-dorks",
           "description": "https://github.com/netlas-io/netlas-cookbook",
           "children": [],
           "repo_info": {
@@ -15,12 +15,12 @@
             "last_commit": "2026-04-24T09:32:52Z",
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 207
+            "stars": 208
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/techgaun/github-dorks",
+          "title": "techgaun/github-dorks",
           "description": "https://github.com/jcesarstef/ghhdb-Github-Hacking-Database https://github.com/H4CK3RT3CH/github-dorks https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt (for finding files)",
           "children": [],
           "repo_info": {
@@ -30,12 +30,12 @@
             "last_commit": "2025-10-05T15:51:55Z",
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3268
+            "stars": 3269
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Neo23x0/vti-dorks",
+          "title": "Neo23x0/vti-dorks",
           "description": null,
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/iGotRootSRC/Dorkers",
+          "title": "iGotRootSRC/Dorkers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/d34dfr4m3/goDuck",
+          "title": "d34dfr4m3/goDuck",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Zarcolio/sitedorks",
+          "title": "Zarcolio/sitedorks",
           "description": null,
           "children": [],
           "repo_info": {
@@ -95,7 +95,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BullsEye0/google_dork_list",
+          "title": "BullsEye0/google_dork_list",
           "description": "https://github.com/sushiwushi/bug-bounty-dorks https://github.com/rootac355/SQL-injection-dorks-list https://github.com/unexpectedBy/SQLi-Dork-Repository https://github.com/thomasdesr/Google-dorks https://github.com/arimogi/Google-Dorks https://github.com/aleedhillon/7000-Google-Dork-List",
           "children": [],
           "repo_info": {
@@ -105,12 +105,12 @@
             "last_commit": "2026-08-02T08:39:11Z",
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1905
+            "stars": 1906
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt",
+          "title": "cipher387/Dorks-collections-list",
           "description": null,
           "children": [],
           "repo_info": {
@@ -120,7 +120,7 @@
             "last_commit": "2025-04-11T03:29:15Z",
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2731
+            "stars": 2732
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2025-07-02T00:26:17Z",
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1304
+            "stars": 1305
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:05:40.575Z",
+    "last_updated": "2026-08-25T05:55:58.497Z",
     "original_repository": "cipher387/Dorks-collections-list",
     "original_repository_id": 408084679,
     "original_repository_sha": "207261a3d16dac770d59939f4eb228b8d792a6c8",
