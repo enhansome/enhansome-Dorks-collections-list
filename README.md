@@ -33,7 +33,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <https://github.com/techgaun/github-dorks> ⭐ 3,271 | 🐛 11 | 🌐 Python | 📅 2025-10-05</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 251 | 🐛 0 | 📅 2026-04-06</br>
-<https://github.com/H4CK3RT3CH/github-dorks> ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
+<https://github.com/H4CK3RT3CH/github-dorks> ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
 
 <i>Many dorks for Github can also be used when searching other code hosting services (Bitbucket, Gitlab, Codeberg etc). You can use the special Google Custom Search Engine to search 20 code hosting services at a time  <https://cipher387.github.io/code_repository_google_custom_search_engines/></i>
@@ -87,7 +87,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 <https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,087 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 141 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
-<https://github.com/thomasdesr/Google-dorks> ⭐ 40 | 🐛 0 | 📅 2014-07-28</br>
+<https://github.com/thomasdesr/Google-dorks> ⭐ 41 | 🐛 0 | 📅 2014-07-28</br>
 <https://github.com/arimogi/Google-Dorks> ⭐ 54 | 🐛 0 | 📅 2015-11-07</br>
 <https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 182 | 🐛 0 | 📅 2022-08-04</br>
 
@@ -243,7 +243,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 <h2>Dorks from realDumbleDork posts</h2>
 
-<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,733 | 🐛 2 | 📅 2025-04-11
+<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,732 | 🐛 2 | 📅 2025-04-11
 
 <h1>TOOLS</h1>
 
@@ -253,14 +253,14 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 | Name                                                                        | Link                                                                                                 |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,742 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
+| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,743 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
 | PyDork                                                                      | <https://github.com/blacknon/pydork> ⭐ 90 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-03                      |
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 153 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
 | ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 445 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
-| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,387 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
+| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,388 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
-| GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,300 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
+| GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,301 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
 | Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 402 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
 | Dorks Eye                                                                   | <https://github.com/BullsEye0/dorks-eye> ⭐ 909 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-02                 |
 | SQLI Dorks generator                                                        | <https://github.com/Zold1/sqli-dorks-generator> ⭐ 57 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-06           |
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

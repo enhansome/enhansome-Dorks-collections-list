@@ -120,7 +120,7 @@
             "last_commit": "2025-04-11T03:29:15Z",
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2733
+            "stars": 2732
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-07-10T12:59:07Z",
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1742
+            "stars": 1743
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2025-12-01T16:24:43Z",
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3387
+            "stars": 3388
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2025-07-02T00:26:17Z",
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1305
+            "stars": 1304
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-02-04T08:28:00Z",
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1300
+            "stars": 1301
           }
         },
         {
@@ -323,9 +323,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:01:43.575Z",
-    "original_repository": "cipher387/Dorks-collections-list",
-    "original_repository_id": 408084679,
+    "last_updated": "2026-08-27T11:36:23.142Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 408084679,
+      "language": null,
+      "last_commit": "2025-04-11T03:29:15Z",
+      "owner": "cipher387",
+      "repo": "Dorks-collections-list",
+      "stars": 2732
+    },
     "original_repository_sha": "207261a3d16dac770d59939f4eb228b8d792a6c8",
     "enhanced_repository": "enhansome/enhansome-Dorks-collections-list",
     "enhanced_repository_description": null,
