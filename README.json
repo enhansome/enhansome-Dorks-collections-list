@@ -16,7 +16,8 @@
             "owner": "netlas-io",
             "repo": "netlas-dorks",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2025-10-05T15:51:55Z",
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3271
-          }
+            "stars": 3272
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Neo23x0",
             "repo": "vti-dorks",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "iGotRootSRC",
             "repo": "Dorkers",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "d34dfr4m3",
             "repo": "goDuck",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-08-18T21:14:21Z",
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1053
-          }
+            "stars": 1055
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-02T08:39:11Z",
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1906
-          }
+            "stars": 1907
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -120,8 +127,9 @@
             "last_commit": "2025-04-11T03:29:15Z",
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2733
-          }
+            "stars": 2734
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
             "stars": 1743
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -150,8 +159,9 @@
             "last_commit": "2026-05-03T22:37:50Z",
             "owner": "blacknon",
             "repo": "pydork",
-            "stars": 90
-          }
+            "stars": 89
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "rly0nheart",
             "repo": "0xdork",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "TheSpeedX",
             "repo": "SDorker",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "powerexploit",
             "repo": "Ashok",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2025-12-01T16:24:43Z",
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3388
-          }
+            "stars": 3390
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2025-07-02T00:26:17Z",
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1304
-          }
+            "stars": 1305
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "dwisiswant0",
             "repo": "go-dork",
             "stars": 1301
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "Smaash",
             "repo": "snitch",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "BullsEye0",
             "repo": "dorks-eye",
             "stars": 909
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "AhmedOsamaMath",
             "repo": "sqli-dorks-generator",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "falkensmz",
             "repo": "dsh",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         },
         {
           "node_type": "item",
@@ -316,14 +336,15 @@
             "owner": "six2dez",
             "repo": "dorks_hunter",
             "stars": 345
-          }
+          },
+          "first_seen": "2026-08-28T19:27:22.386Z"
         }
       ],
       "title": "Overview"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:18:14.739Z",
+    "last_updated": "2026-08-28T19:27:22.386Z",
     "original_repository_info": {
       "archived": false,
       "id": 408084679,
@@ -331,7 +352,7 @@
       "last_commit": "2025-04-11T03:29:15Z",
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2733
+      "stars": 2734
     },
     "original_repository_sha": "207261a3d16dac770d59939f4eb228b8d792a6c8",
     "enhanced_repository": "enhansome/enhansome-Dorks-collections-list",
