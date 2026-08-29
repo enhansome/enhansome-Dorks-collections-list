@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3390,
+            "stars": 3389,
             "topics": [
               "bugbounty",
               "dork",
@@ -426,7 +426,7 @@
             "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1301,
+            "stars": 1302,
             "topics": [
               "bing-dorks",
               "bugbounty",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:12.546Z",
+    "last_updated": "2026-08-29T13:10:56.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
