@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of dorks for the Netlas.io search engine, with which you can find millions of objects in the boundless IoE. Contains queries to search for IoT elements, protocols, communication tools, remote access, and more. Over time, the list will grow.",
+            "homepage": "https://app.netlas.io",
             "id": 628956752,
             "language": null,
+            "license": null,
             "last_commit": "2026-04-24T09:32:52Z",
+            "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "osint",
+              "penetration-testing",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -26,12 +35,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find leaked secrets via github search",
+            "homepage": null,
             "id": 44060490,
             "language": "Python",
-            "last_commit": "2025-10-05T15:51:55Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:37:47Z",
+            "open_issues": 11,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3272
+            "stars": 3272,
+            "topics": [
+              "dork",
+              "dorker",
+              "github-dork",
+              "hacking",
+              "hacktoberfest",
+              "security-audit"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome VirusTotal Intelligence Search Queries",
+            "homepage": null,
             "id": 163669434,
             "language": null,
+            "license": "Unlicense",
             "last_commit": "2023-05-16T07:49:17Z",
+            "open_issues": 2,
             "owner": "Neo23x0",
             "repo": "vti-dorks",
-            "stars": 333
+            "stars": 333,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -58,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dorks for Google, Shodan and BinaryEdge",
+            "homepage": null,
             "id": 188596866,
             "language": null,
+            "license": null,
             "last_commit": "2020-03-03T21:26:44Z",
+            "open_issues": 0,
             "owner": "iGotRootSRC",
             "repo": "Dorkers",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -74,12 +105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python script to perform dorks using DuckDuckGo search engine. ",
+            "homepage": null,
             "id": 164377297,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-11T19:46:26Z",
+            "open_issues": 0,
             "owner": "d34dfr4m3",
             "repo": "goDuck",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -90,12 +126,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Google/Bing/Ecosia/DuckDuckGo/Yandex/Yahoo for a search term (dork) with a default set of websites, bug bounty programs or custom collection.",
+            "homepage": null,
             "id": 256770027,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-18T21:14:21Z",
+            "open_issues": 0,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1055
+            "stars": 1055,
+            "topics": [
+              "baidu",
+              "bing",
+              "bugbounty",
+              "bugcrowd",
+              "duckduckgo",
+              "google",
+              "google-dorks",
+              "googledork",
+              "hackerone",
+              "hacking",
+              "infosec",
+              "intigriti",
+              "osint",
+              "python3",
+              "recon",
+              "reconnaissance",
+              "search",
+              "search-engines",
+              "yahoo",
+              "yandex"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -106,12 +168,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Dorks | Google helps you to find Vulnerable Websites that Indexed in Google Search Results. Here is the latest collection of Google Dorks. A collection of 13.760 Dorks. Author: Jolanda de Koff",
+            "homepage": null,
             "id": 205915356,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-02T08:39:11Z",
+            "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1907
+            "stars": 1908,
+            "topics": [
+              "dorks"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -122,12 +191,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of Github repositories and articles with list of dorks for different search engines",
+            "homepage": "https://cybdetective.com",
             "id": 408084679,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-11T03:29:15Z",
+            "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2734
+            "stars": 2734,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cybersecurity",
+              "hacking",
+              "osint",
+              "pentest"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -138,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The OSINT project, the main idea of which is to collect all the possible Google dorks search combinations and to find the information about the specific web-site: common admin panels, the widespread file types and path traversal. The 100% automated.",
+            "homepage": null,
             "id": 261533481,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-07-10T12:59:07Z",
+            "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1743
+            "stars": 1743,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -154,12 +240,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scraping and listing text and image searches on Google, Bing, DuckDuckGo, Baidu, Yahoo japan.",
+            "homepage": null,
             "id": 457665481,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-03T22:37:50Z",
+            "open_issues": 1,
             "owner": "blacknon",
             "repo": "pydork",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "dork",
+              "dorker",
+              "dorks",
+              "osint",
+              "python",
+              "python-library",
+              "scraping"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -170,12 +269,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 415339069,
             "language": null,
+            "license": null,
             "last_commit": "2022-04-02T12:18:29Z",
+            "open_issues": 0,
             "owner": "rly0nheart",
             "repo": "0xdork",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -186,12 +290,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SuperDorker gives you a huge list of websites for 0day attacks from Google Dorks",
+            "homepage": null,
             "id": 145284204,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-09-29T09:11:08Z",
+            "open_issues": 0,
             "owner": "TheSpeedX",
             "repo": "SDorker",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "dorker",
+              "dorking",
+              "googledork",
+              "hack",
+              "hacking",
+              "hacking-tool",
+              "python2",
+              "termux",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -202,12 +321,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ashok is a OSINT Recon Tool , a.k.a :heart_eyes:  Swiss Army knife .",
+            "homepage": null,
             "id": 259674025,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-25T12:44:21Z",
+            "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 445
+            "stars": 445,
+            "topics": [
+              "banner-grabbing",
+              "cmsdetecter",
+              "dns",
+              "geoip-lookup",
+              "github",
+              "githubrecon",
+              "googledork",
+              "hacking-tool",
+              "http-headers",
+              "linkextractor",
+              "nmap-scanning",
+              "osint",
+              "penetration-testing",
+              "recon-tools",
+              "reconnaissance",
+              "subdomain-finder",
+              "subnet-lookup",
+              "wayback-machine"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -218,12 +361,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching",
+            "homepage": null,
             "id": 66045666,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-01T16:24:43Z",
+            "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3390
+            "stars": 3390,
+            "topics": [
+              "bugbounty",
+              "dork",
+              "ghdb",
+              "google",
+              "google-dork",
+              "google-dorks",
+              "google-hacking-database",
+              "osint",
+              "osint-python",
+              "python",
+              "yagooglesearch"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -234,12 +394,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Python Tool that gives you the ability to run Advanced Google Queries (Known as Google Dorks - Google Dorking)",
+            "homepage": null,
             "id": 245523603,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-02T00:26:17Z",
+            "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1305
+            "stars": 1305,
+            "topics": [
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -250,12 +417,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest dork scanner written in Go.",
+            "homepage": null,
             "id": 279402524,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-02-04T08:28:00Z",
+            "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1301
+            "stars": 1301,
+            "topics": [
+              "bing-dorks",
+              "bugbounty",
+              "bugbounty-tool",
+              "crawler",
+              "dork-scanner",
+              "dorking",
+              "golang",
+              "google-dorking",
+              "google-dorks",
+              "infosec",
+              "security",
+              "shodan-dorks",
+              "vulnerability-scanners"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -266,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "information gathering via dorks",
+            "homepage": null,
             "id": 38835809,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-19T20:46:40Z",
+            "open_issues": 1,
             "owner": "Smaash",
             "repo": "snitch",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -282,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dorks Eye Google Hacking Dork Scraping and Searching Script. Dorks Eye is a script I made in python 3. With this tool, you can easily find Google Dorks. Dork Eye collects potentially vulnerable web pages and applications on the Internet or other awesome info that is picked up by Google's search bots. Author: Jolanda de Koff",
+            "homepage": null,
             "id": 260192624,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-02T08:36:33Z",
+            "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 909
+            "stars": 909,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -298,12 +494,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python-based Google dork generator that creates search patterns for web reconnaissance. Combines custom patterns, site lists, and search parameters to generate comprehensive dork lists for security research.",
+            "homepage": null,
             "id": 507424750,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-06T03:30:35Z",
+            "open_issues": 1,
             "owner": "AhmedOsamaMath",
             "repo": "sqli-dorks-generator",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "dorks",
+              "sql-injection"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -314,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSH - Discord Server Hunter ; a Python OSiNT tool to look for Discord servers using Google dorking techniques",
+            "homepage": null,
             "id": 518875649,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-29T15:39:22Z",
+            "open_issues": 1,
             "owner": "falkensmz",
             "repo": "dsh",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         },
@@ -330,12 +539,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Google Dorks search tool",
+            "homepage": null,
             "id": 520860357,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-14T07:59:31Z",
+            "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 345
+            "stars": 345,
+            "topics": [
+              "bugbounty",
+              "dorks",
+              "google",
+              "hacking",
+              "offensive",
+              "osint",
+              "pentest",
+              "recon"
+            ]
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
         }
@@ -344,15 +567,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:27:22.386Z",
+    "last_updated": "2026-08-29T04:21:12.546Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Github repositories and articles with list of dorks for different search engines",
+      "homepage": "https://cybdetective.com",
       "id": 408084679,
       "language": null,
+      "license": null,
       "last_commit": "2025-04-11T03:29:15Z",
+      "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2734
+      "stars": 2734,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "cybersecurity",
+        "hacking",
+        "osint",
+        "pentest"
+      ]
     },
     "original_repository_sha": "207261a3d16dac770d59939f4eb228b8d792a6c8",
     "enhanced_repository": "enhansome/enhansome-Dorks-collections-list",
