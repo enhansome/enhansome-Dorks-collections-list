@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3272,
+            "stars": 3273,
             "topics": [
               "dork",
               "dorker",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1908,
+            "stars": 1909,
             "topics": [
               "dorks"
             ]
@@ -228,7 +228,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1743,
+            "stars": 1744,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3389,
+            "stars": 3388,
             "topics": [
               "bugbounty",
               "dork",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T13:10:56.745Z",
+    "last_updated": "2026-08-30T12:55:34.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
