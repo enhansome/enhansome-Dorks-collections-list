@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "osint",
               "penetration-testing",
@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3273,
+            "stars": 3272,
             "topics": [
               "dork",
               "dorker",
@@ -72,7 +72,7 @@
             "open_issues": 2,
             "owner": "Neo23x0",
             "repo": "vti-dorks",
-            "stars": 333,
+            "stars": 332,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -93,7 +93,7 @@
             "open_issues": 0,
             "owner": "iGotRootSRC",
             "repo": "Dorkers",
-            "stars": 144,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -114,7 +114,7 @@
             "open_issues": 0,
             "owner": "d34dfr4m3",
             "repo": "goDuck",
-            "stars": 92,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1055,
+            "stars": 1054,
             "topics": [
               "baidu",
               "bing",
@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2736,
+            "stars": 2735,
             "topics": [
               "awesome",
               "awesome-list",
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3388,
+            "stars": 3387,
             "topics": [
               "bugbounty",
               "dork",
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 911,
+            "stars": 912,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:07:58.198Z",
+    "last_updated": "2026-09-01T12:35:45.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2736,
+      "stars": 2735,
       "topics": [
         "awesome",
         "awesome-list",

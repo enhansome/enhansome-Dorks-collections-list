@@ -24,16 +24,16 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Netlas dorks</h2>
 
-<https://github.com/netlas-io/netlas-dorks> ⭐ 208 | 🐛 0 | 📅 2026-04-24\
+<https://github.com/netlas-io/netlas-dorks> ⭐ 207 | 🐛 0 | 📅 2026-04-24\
 <https://github.com/netlas-io/netlas-cookbook> ⭐ 889 | 🐛 0 | 🌐 Python | 📅 2025-06-27
 
 <a name="githubdorks"></a>
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,273 | 🐛 11 | 🌐 Python | 📅 2026-08-29</br>
-<https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 250 | 🐛 0 | 📅 2026-04-06</br>
-<https://github.com/H4CK3RT3CH/github-dorks> ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,272 | 🐛 11 | 🌐 Python | 📅 2026-08-29</br>
+<https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 249 | 🐛 0 | 📅 2026-04-06</br>
+<https://github.com/H4CK3RT3CH/github-dorks> ⭐ 89 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
 
 <i>Many dorks for Github can also be used when searching other code hosting services (Bitbucket, Gitlab, Codeberg etc). You can use the special Google Custom Search Engine to search 20 code hosting services at a time  <https://cipher387.github.io/code_repository_google_custom_search_engines/></i>
@@ -59,37 +59,37 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h2>Virus Total dorks</h2>
 
-<https://github.com/Neo23x0/vti-dorks> ⭐ 333 | 🐛 2 | 📅 2023-05-16</br>
+<https://github.com/Neo23x0/vti-dorks> ⭐ 332 | 🐛 2 | 📅 2023-05-16</br>
 
 <a name="binaryedgedorks"></a>
 
 <h2>Binary Edge + Shodan + Google</h2>
 
-<https://github.com/iGotRootSRC/Dorkers> ⭐ 144 | 🐛 0 | 📅 2020-03-03</br>
+<https://github.com/iGotRootSRC/Dorkers> ⭐ 143 | 🐛 0 | 📅 2020-03-03</br>
 
 <a name="duckduckdorks"></a>
 
 <h2>DuckDuckGo dorks</h2>
 
-<https://github.com/d34dfr4m3/goDuck> ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2019-01-11
+<https://github.com/d34dfr4m3/goDuck> ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2019-01-11
 
 <a name="yandexdorks"></a>
 
 <h2>Google, Bing, Ecosia, Yahoo or Yandex</h2>
 
-<https://github.com/Zarcolio/sitedorks> ⭐ 1,055 | 🐛 0 | 🌐 Python | 📅 2026-08-18
+<https://github.com/Zarcolio/sitedorks> ⭐ 1,054 | 🐛 0 | 🌐 Python | 📅 2026-08-18
 
 <a name="googledorks"></a>
 
 <h1>Google dorks</h1>
 
 <https://github.com/BullsEye0/google_dork_list> ⭐ 1,911 | 🐛 1 | 📅 2026-08-02</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,090 | 🐛 1 | 📅 2025-12-08</br>
-<https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 141 | 🐛 0 | 📅 2018-05-12</br>
-<https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
-<https://github.com/thomasdesr/Google-dorks> ⭐ 41 | 🐛 0 | 📅 2014-07-28</br>
-<https://github.com/arimogi/Google-Dorks> ⭐ 55 | 🐛 0 | 📅 2015-11-07</br>
-<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 182 | 🐛 0 | 📅 2022-08-04</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,092 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 140 | 🐛 0 | 📅 2018-05-12</br>
+<https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 91 | 🐛 1 | 📅 2021-01-08</br>
+<https://github.com/thomasdesr/Google-dorks> ⭐ 40 | 🐛 0 | 📅 2014-07-28</br>
+<https://github.com/arimogi/Google-Dorks> ⭐ 54 | 🐛 0 | 📅 2015-11-07</br>
+<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 181 | 🐛 0 | 📅 2022-08-04</br>
 
 <a name="oniondorks"></a>
 
@@ -243,7 +243,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 <h2>Dorks from realDumbleDork posts</h2>
 
-<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,736 | 🐛 2 | 📅 2025-04-11
+<https://github.com/cipher387/Dorks-collections-list/blob/main/realDumbleDork_twitter.txt> ⭐ 2,735 | 🐛 2 | 📅 2025-04-11
 
 <h1>TOOLS</h1>
 
@@ -258,11 +258,11 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 153 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
 | ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 445 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
-| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,388 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
+| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,387 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
 | GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,302 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
 | Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 402 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
-| Dorks Eye                                                                   | <https://github.com/BullsEye0/dorks-eye> ⭐ 911 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-02                 |
+| Dorks Eye                                                                   | <https://github.com/BullsEye0/dorks-eye> ⭐ 912 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-02                 |
 | SQLI Dorks generator                                                        | <https://github.com/Zold1/sqli-dorks-generator> ⭐ 57 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-06           |
 | DSH - Discord Server Hunter                                                 | <https://github.com/falkensmz/dsh> ⭐ 14 \| 🐛 1 \| 🌐 Python \| 📅 2022-07-29                        |
 | Dork hunter                                                                 | <https://github.com/six2dez/dorks_hunter> ⭐ 345 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-14                |
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
