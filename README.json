@@ -40,11 +40,11 @@
             "id": 44060490,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T04:41:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-05T23:04:46Z",
+            "open_issues": 12,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3274,
+            "stars": 3275,
             "topics": [
               "dork",
               "dorker",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:16:46.919Z",
+    "last_updated": "2026-09-06T11:40:00.235Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
