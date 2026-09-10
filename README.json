@@ -44,7 +44,7 @@
             "open_issues": 12,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3276,
+            "stars": 3275,
             "topics": [
               "dork",
               "dorker",
@@ -503,7 +503,7 @@
             "open_issues": 1,
             "owner": "AhmedOsamaMath",
             "repo": "sqli-dorks-generator",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "dorks",
               "sql-injection"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T12:21:16.762Z",
+    "last_updated": "2026-09-10T12:14:39.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
