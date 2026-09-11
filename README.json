@@ -44,7 +44,7 @@
             "open_issues": 12,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3275,
+            "stars": 3277,
             "topics": [
               "dork",
               "dorker",
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3389,
+            "stars": 3390,
             "topics": [
               "bugbounty",
               "dork",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:14:39.805Z",
+    "last_updated": "2026-09-11T12:13:20.683Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
