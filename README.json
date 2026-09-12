@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "osint",
               "penetration-testing",
@@ -44,7 +44,7 @@
             "open_issues": 12,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3277,
+            "stars": 3276,
             "topics": [
               "dork",
               "dorker",
@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2744,
+            "stars": 2745,
             "topics": [
               "awesome",
               "awesome-list",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:13:20.683Z",
+    "last_updated": "2026-09-12T11:37:40.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2744,
+      "stars": 2745,
       "topics": [
         "awesome",
         "awesome-list",
