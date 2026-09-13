@@ -40,11 +40,11 @@
             "id": 44060490,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T20:19:10Z",
+            "last_commit": "2026-09-13T01:46:58Z",
             "open_issues": 12,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3276,
+            "stars": 3277,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1054,
+            "stars": 1055,
             "topics": [
               "baidu",
               "bing",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1921,
+            "stars": 1922,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2745,
+            "stars": 2747,
             "topics": [
               "awesome",
               "awesome-list",
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3390,
+            "stars": 3393,
             "topics": [
               "bugbounty",
               "dork",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1307,
+            "stars": 1308,
             "topics": [
               "python"
             ]
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 916,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:37:40.633Z",
+    "last_updated": "2026-09-13T12:44:27.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2745,
+      "stars": 2747,
       "topics": [
         "awesome",
         "awesome-list",
