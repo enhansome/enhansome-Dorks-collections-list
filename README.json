@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1923,
+            "stars": 1924,
             "topics": [
               "dorks"
             ]
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 919,
+            "stars": 921,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "bugbounty",
               "dorks",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:12:58.918Z",
+    "last_updated": "2026-09-22T12:38:00.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
