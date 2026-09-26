@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1927,
+            "stars": 1926,
             "topics": [
               "dorks"
             ]
@@ -330,7 +330,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 445,
+            "stars": 446,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -482,7 +482,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 924,
+            "stars": 923,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -503,7 +503,7 @@
             "open_issues": 1,
             "owner": "AhmedOsamaMath",
             "repo": "sqli-dorks-generator",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "dorks",
               "sql-injection"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:47:32.831Z",
+    "last_updated": "2026-09-26T12:14:59.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
