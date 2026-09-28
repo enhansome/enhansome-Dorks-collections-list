@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "awesome",
               "awesome-list",
@@ -228,7 +228,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1742,
+            "stars": 1741,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3401,
+            "stars": 3400,
             "topics": [
               "bugbounty",
               "dork",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:05:32.580Z",
+    "last_updated": "2026-09-28T15:31:44.690Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2753,
+      "stars": 2754,
       "topics": [
         "awesome",
         "awesome-list",
