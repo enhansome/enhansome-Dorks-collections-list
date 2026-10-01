@@ -135,7 +135,7 @@
             "open_issues": 0,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1058,
+            "stars": 1057,
             "topics": [
               "baidu",
               "bing",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1926,
+            "stars": 1925,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2755,
+            "stars": 2756,
             "topics": [
               "awesome",
               "awesome-list",
@@ -228,7 +228,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1743,
+            "stars": 1742,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3400,
+            "stars": 3401,
             "topics": [
               "bugbounty",
               "dork",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1308,
+            "stars": 1309,
             "topics": [
               "python"
             ]
@@ -426,7 +426,7 @@
             "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1302,
+            "stars": 1303,
             "topics": [
               "bing-dorks",
               "bugbounty",
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:46:59.146Z",
+    "last_updated": "2026-10-01T14:30:22.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2755,
+      "stars": 2756,
       "topics": [
         "awesome",
         "awesome-list",
