@@ -173,11 +173,11 @@
             "id": 205915356,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-30T11:50:24Z",
+            "last_commit": "2026-10-01T19:17:04Z",
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1925,
+            "stars": 1926,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 2,
             "owner": "cipher387",
             "repo": "Dorks-collections-list",
-            "stars": 2756,
+            "stars": 2758,
             "topics": [
               "awesome",
               "awesome-list",
@@ -370,7 +370,7 @@
             "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3401,
+            "stars": 3400,
             "topics": [
               "bugbounty",
               "dork",
@@ -403,7 +403,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1309,
+            "stars": 1310,
             "topics": [
               "python"
             ]
@@ -478,11 +478,11 @@
             "id": 260192624,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T07:58:34Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-01T19:17:46Z",
+            "open_issues": 2,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 924,
+            "stars": 925,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -567,7 +567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T14:30:22.810Z",
+    "last_updated": "2026-10-02T13:53:24.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +579,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2756,
+      "stars": 2758,
       "topics": [
         "awesome",
         "awesome-list",
