@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "netlas-io/netlas-dorks",
-          "description": "https://github.com/netlas-io/netlas-cookbook",
+          "description": "netlas-io/netlas-dorks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "Neo23x0/vti-dorks",
-          "description": null,
+          "description": "Neo23x0/vti-dorks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "iGotRootSRC/Dorkers",
-          "description": null,
+          "description": "iGotRootSRC/Dorkers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "d34dfr4m3/goDuck",
-          "description": null,
+          "description": "d34dfr4m3/goDuck",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "Zarcolio/sitedorks",
-          "description": null,
+          "description": "Zarcolio/sitedorks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -186,36 +186,8 @@
         },
         {
           "node_type": "item",
-          "title": "cipher387/Dorks-collections-list",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "List of Github repositories and articles with list of dorks for different search engines",
-            "homepage": "https://cybdetective.com",
-            "id": 408084679,
-            "language": null,
-            "license": null,
-            "last_commit": "2025-04-11T03:29:15Z",
-            "open_issues": 2,
-            "owner": "cipher387",
-            "repo": "Dorks-collections-list",
-            "stars": 2758,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "cybersecurity",
-              "hacking",
-              "osint",
-              "pentest"
-            ]
-          },
-          "first_seen": "2026-08-28T19:27:22.386Z"
-        },
-        {
-          "node_type": "item",
           "title": "Fast Google Dorks Scan",
-          "description": "https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan",
+          "description": "IvanGlinkin/Fast-Google-Dorks-Scan",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -236,7 +208,7 @@
         {
           "node_type": "item",
           "title": "PyDork",
-          "description": "https://github.com/blacknon/pydork",
+          "description": "blacknon/pydork",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -265,7 +237,7 @@
         {
           "node_type": "item",
           "title": "0xDork",
-          "description": "https://github.com/rlyonheart/0xdork",
+          "description": "rly0nheart/0xdork",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -286,7 +258,7 @@
         {
           "node_type": "item",
           "title": "SDorker",
-          "description": "https://github.com/TheSpeedX/SDorker",
+          "description": "TheSpeedX/SDorker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,7 +289,7 @@
         {
           "node_type": "item",
           "title": "ASHOK (osint swiss knife)",
-          "description": "https://github.com/ankitdobhal/Ashok",
+          "description": "powerexploit/Ashok",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -357,7 +329,7 @@
         {
           "node_type": "item",
           "title": "Padago (Automate Google Hacking Database scraping and searching)",
-          "description": "https://github.com/opsdisk/pagodo",
+          "description": "opsdisk/pagodo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -390,7 +362,7 @@
         {
           "node_type": "item",
           "title": "Katana (Python tool that automates Google Hacking/Dorking and supports Tor)",
-          "description": "https://github.com/TebbaaX/Katana",
+          "description": "c4tcom/Katana",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -413,7 +385,7 @@
         {
           "node_type": "item",
           "title": "GO Dork (fast google search result scanner)",
-          "description": "https://github.com/dwisiswant0/go-dork",
+          "description": "dwisiswant0/go-dork",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -448,7 +420,7 @@
         {
           "node_type": "item",
           "title": "Snitch",
-          "description": "https://github.com/Smaash/snitch",
+          "description": "Smaash/snitch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +441,7 @@
         {
           "node_type": "item",
           "title": "Dorks Eye",
-          "description": "https://github.com/BullsEye0/dorks-eye",
+          "description": "BullsEye0/dorks-eye",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -490,7 +462,7 @@
         {
           "node_type": "item",
           "title": "SQLI Dorks generator",
-          "description": "https://github.com/Zold1/sqli-dorks-generator",
+          "description": "AhmedOsamaMath/sqli-dorks-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +486,7 @@
         {
           "node_type": "item",
           "title": "DSH - Discord Server Hunter",
-          "description": "https://github.com/falkensmz/dsh",
+          "description": "falkensmz/dsh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -535,7 +507,7 @@
         {
           "node_type": "item",
           "title": "Dork hunter",
-          "description": "https://github.com/six2dez/dorks_hunter",
+          "description": "six2dez/dorks_hunter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -567,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:53:24.611Z",
+    "last_updated": "2026-10-03T04:29:34.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -579,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2758,
+      "stars": 2760,
       "topics": [
         "awesome",
         "awesome-list",
