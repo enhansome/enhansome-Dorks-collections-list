@@ -398,7 +398,7 @@
             "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1303,
+            "stars": 1306,
             "topics": [
               "bing-dorks",
               "bugbounty",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T12:35:36.303Z",
+    "last_updated": "2026-10-04T13:13:18.534Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
