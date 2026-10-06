@@ -31,7 +31,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,288 | 🐛 10 | 🌐 Python | 📅 2026-09-15</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,289 | 🐛 10 | 🌐 Python | 📅 2026-09-15</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 250 | 🐛 0 | 📅 2026-04-06</br>
 <https://github.com/H4CK3RT3CH/github-dorks> ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
@@ -77,7 +77,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h2>Google, Bing, Ecosia, Yahoo or Yandex</h2>
 
-<https://github.com/Zarcolio/sitedorks> ⭐ 1,056 | 🐛 0 | 🌐 Python | 📅 2026-08-18
+<https://github.com/Zarcolio/sitedorks> ⭐ 1,057 | 🐛 1 | 🌐 Python | 📅 2026-08-18
 
 <a name="googledorks"></a>
 
@@ -258,7 +258,7 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 150 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
 | ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 446 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
-| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,400 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
+| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,401 \| 🐛 5 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
 | GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,305 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
 | Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 402 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
