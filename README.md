@@ -31,7 +31,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Github dorks</h2>
 
-<https://github.com/techgaun/github-dorks> ⭐ 3,289 | 🐛 10 | 🌐 Python | 📅 2026-09-15</br>
+<https://github.com/techgaun/github-dorks> ⭐ 3,290 | 🐛 10 | 🌐 Python | 📅 2026-09-15</br>
 <https://github.com/jcesarstef/ghhdb-Github-Hacking-Database> ⭐ 250 | 🐛 0 | 📅 2026-04-06</br>
 <https://github.com/H4CK3RT3CH/github-dorks> ⭐ 90 | 🐛 1 | 🌐 Python | 📅 2017-07-25</br>
 <https://github.com/Vaidik-pandya/Github_recon_dorks/blob/main/gitdork.txt> ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2023-03-23 (for finding files)
@@ -83,13 +83,13 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h1>Google dorks</h1>
 
-<https://github.com/BullsEye0/google_dork_list> ⭐ 1,925 | 🐛 1 | 📅 2026-10-01</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,127 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/BullsEye0/google_dork_list> ⭐ 1,926 | 🐛 1 | 📅 2026-10-01</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,128 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 143 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 42 | 🐛 0 | 📅 2014-07-28</br>
 <https://github.com/arimogi/Google-Dorks> ⭐ 56 | 🐛 0 | 📅 2015-11-07</br>
-<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 184 | 🐛 0 | 📅 2022-08-04</br>
+<https://github.com/aleedhillon/7000-Google-Dork-List> ⭐ 185 | 🐛 0 | 📅 2022-08-04</br>
 
 <a name="oniondorks"></a>
 
@@ -258,10 +258,10 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 150 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
 | ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 446 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
-| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,399 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-01                    |
+| Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,401 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
 | GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,305 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
-| Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 402 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
+| Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 401 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
 | Dorks Eye                                                                   | <https://github.com/BullsEye0/dorks-eye> ⭐ 926 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-01                 |
 | SQLI Dorks generator                                                        | <https://github.com/Zold1/sqli-dorks-generator> ⭐ 59 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-06           |
 | DSH - Discord Server Hunter                                                 | <https://github.com/falkensmz/dsh> ⭐ 14 \| 🐛 1 \| 🌐 Python \| 📅 2022-07-29                        |
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
