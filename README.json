@@ -131,7 +131,7 @@
             "id": 256770027,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-18T21:14:21Z",
+            "last_commit": "2026-10-08T22:10:28Z",
             "open_issues": 1,
             "owner": "Zarcolio",
             "repo": "sitedorks",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1926,
+            "stars": 1927,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1743,
+            "stars": 1744,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -342,7 +342,7 @@
             "open_issues": 6,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3401,
+            "stars": 3402,
             "topics": [
               "bugbounty",
               "dork",
@@ -499,7 +499,7 @@
             "open_issues": 1,
             "owner": "falkensmz",
             "repo": "dsh",
-            "stars": 14,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T14:36:32.973Z",
+    "last_updated": "2026-10-09T14:23:18.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
