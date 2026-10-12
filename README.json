@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "osint",
               "penetration-testing",
@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3291,
+            "stars": 3292,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 1,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1059,
+            "stars": 1060,
             "topics": [
               "baidu",
               "bing",
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1744,
+            "stars": 1745,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -221,7 +221,7 @@
             "open_issues": 1,
             "owner": "blacknon",
             "repo": "pydork",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "dork",
               "dorker",
@@ -250,7 +250,7 @@
             "open_issues": 0,
             "owner": "rly0nheart",
             "repo": "0xdork",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -271,7 +271,7 @@
             "open_issues": 0,
             "owner": "TheSpeedX",
             "repo": "SDorker",
-            "stars": 150,
+            "stars": 151,
             "topics": [
               "dorker",
               "dorking",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1310,
+            "stars": 1312,
             "topics": [
               "python"
             ]
@@ -398,7 +398,7 @@
             "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1305,
+            "stars": 1306,
             "topics": [
               "bing-dorks",
               "bugbounty",
@@ -475,7 +475,7 @@
             "open_issues": 1,
             "owner": "AhmedOsamaMath",
             "repo": "sqli-dorks-generator",
-            "stars": 59,
+            "stars": 60,
             "topics": [
               "dorks",
               "sql-injection"
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "bugbounty",
               "dorks",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:05:01.514Z",
+    "last_updated": "2026-10-12T16:45:28.349Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2760,
+      "stars": 2762,
       "topics": [
         "awesome",
         "awesome-list",
