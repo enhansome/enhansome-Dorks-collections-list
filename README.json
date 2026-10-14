@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "netlas-io",
             "repo": "netlas-dorks",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "osint",
               "penetration-testing",
@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3290,
+            "stars": 3291,
             "topics": [
               "dork",
               "dorker",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1926,
+            "stars": 1928,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1744,
+            "stars": 1745,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -433,7 +433,7 @@
             "open_issues": 1,
             "owner": "Smaash",
             "repo": "snitch",
-            "stars": 401,
+            "stars": 400,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -454,7 +454,7 @@
             "open_issues": 2,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 927,
+            "stars": 928,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 347,
+            "stars": 346,
             "topics": [
               "bugbounty",
               "dorks",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T15:05:15.926Z",
+    "last_updated": "2026-10-14T12:53:35.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
