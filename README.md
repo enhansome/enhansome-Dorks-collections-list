@@ -24,8 +24,8 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 <h2>Netlas dorks</h2>
 
-<https://github.com/netlas-io/netlas-dorks> ⭐ 211 | 🐛 0 | 📅 2026-04-24\
-<https://github.com/netlas-io/netlas-cookbook> ⭐ 893 | 🐛 0 | 🌐 Python | 📅 2026-09-18
+<https://github.com/netlas-io/netlas-dorks> ⭐ 212 | 🐛 0 | 📅 2026-04-24\
+<https://github.com/netlas-io/netlas-cookbook> ⭐ 894 | 🐛 0 | 🌐 Python | 📅 2026-09-18
 
 <a name="githubdorks"></a>
 
@@ -77,14 +77,14 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h2>Google, Bing, Ecosia, Yahoo or Yandex</h2>
 
-<https://github.com/Zarcolio/sitedorks> ⭐ 1,060 | 🐛 2 | 🌐 Python | 📅 2026-10-08
+<https://github.com/Zarcolio/sitedorks> ⭐ 1,062 | 🐛 2 | 🌐 Python | 📅 2026-10-08
 
 <a name="googledorks"></a>
 
 <h1>Google dorks</h1>
 
 <https://github.com/BullsEye0/google_dork_list> ⭐ 1,928 | 🐛 1 | 📅 2026-10-01</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,135 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,136 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 143 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 92 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 42 | 🐛 0 | 📅 2014-07-28</br>
@@ -253,11 +253,11 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 | Name                                                                        | Link                                                                                                 |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,745 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
+| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,746 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
 | PyDork                                                                      | <https://github.com/blacknon/pydork> ⭐ 88 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-03                      |
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 151 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
-| ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 446 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
+| ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 445 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
 | Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,404 \| 🐛 6 \| 🌐 Python \| 📅 2025-12-01                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
 | GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,307 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
