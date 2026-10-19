@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3293,
+            "stars": 3297,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 2,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1063,
+            "stars": 1064,
             "topics": [
               "baidu",
               "bing",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1927,
+            "stars": 1929,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1744,
+            "stars": 1746,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "0xDork",
-          "description": "rly0nheart/0xdork",
+          "description": "ritchiemwewa/0xdork",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -248,7 +248,7 @@
             "license": null,
             "last_commit": "2022-04-02T12:18:29Z",
             "open_issues": 0,
-            "owner": "rly0nheart",
+            "owner": "ritchiemwewa",
             "repo": "0xdork",
             "stars": 12,
             "topics": []
@@ -342,7 +342,7 @@
             "open_issues": 6,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3409,
+            "stars": 3410,
             "topics": [
               "bugbounty",
               "dork",
@@ -454,7 +454,7 @@
             "open_issues": 2,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 929,
+            "stars": 931,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:04:24.656Z",
+    "last_updated": "2026-10-19T14:42:05.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
