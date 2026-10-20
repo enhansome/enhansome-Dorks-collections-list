@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3297,
+            "stars": 3299,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 2,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1064,
+            "stars": 1066,
             "topics": [
               "baidu",
               "bing",
@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1929,
+            "stars": 1931,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1746,
+            "stars": 1747,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -342,7 +342,7 @@
             "open_issues": 6,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3410,
+            "stars": 3412,
             "topics": [
               "bugbounty",
               "dork",
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "bugbounty",
               "dorks",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T14:42:05.334Z",
+    "last_updated": "2026-10-20T12:44:44.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2768,
+      "stars": 2770,
       "topics": [
         "awesome",
         "awesome-list",
