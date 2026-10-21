@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 445,
+            "stars": 444,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -338,8 +338,8 @@
             "id": 66045666,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2025-12-01T16:24:43Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-21T00:18:25Z",
+            "open_issues": 5,
             "owner": "opsdisk",
             "repo": "pagodo",
             "stars": 3412,
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 347,
+            "stars": 346,
             "topics": [
               "bugbounty",
               "dorks",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:44:44.155Z",
+    "last_updated": "2026-10-21T12:57:21.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2770,
+      "stars": 2772,
       "topics": [
         "awesome",
         "awesome-list",
