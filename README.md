@@ -83,8 +83,8 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h1>Google dorks</h1>
 
-<https://github.com/BullsEye0/google_dork_list> ⭐ 1,931 | 🐛 1 | 📅 2026-10-01</br>
-<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,140 | 🐛 1 | 📅 2025-12-08</br>
+<https://github.com/BullsEye0/google_dork_list> ⭐ 1,930 | 🐛 1 | 📅 2026-10-01</br>
+<https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,141 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 143 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 93 | 🐛 1 | 📅 2021-01-08</br>
 <https://github.com/thomasdesr/Google-dorks> ⭐ 42 | 🐛 0 | 📅 2014-07-28</br>
@@ -253,19 +253,19 @@ Dorks for finding direct links to movies https://github.com/cipher387/Dorks-coll
 
 | Name                                                                        | Link                                                                                                 |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,747 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
+| Fast Google Dorks Scan                                                      | <https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan> ⭐ 1,746 \| 🐛 6 \| 🌐 Shell \| 📅 2025-07-10 |
 | PyDork                                                                      | <https://github.com/blacknon/pydork> ⭐ 88 \| 🐛 1 \| 🌐 Python \| 📅 2026-05-03                      |
 | 0xDork                                                                      | <https://github.com/rlyonheart/0xdork> ⚠️ Archived                                                   |
 | SDorker                                                                     | <https://github.com/TheSpeedX/SDorker> ⭐ 151 \| 🐛 0 \| 🌐 Shell \| 📅 2023-09-29                    |
 | ASHOK (osint swiss knife)                                                   | <https://github.com/ankitdobhal/Ashok> ⭐ 444 \| 🐛 2 \| 🌐 Python \| 📅 2022-01-25                   |
 | Padago (Automate Google Hacking Database scraping and searching)            | <https://github.com/opsdisk/pagodo> ⭐ 3,412 \| 🐛 5 \| 🌐 Python \| 📅 2026-10-21                    |
 | Katana (Python tool that automates Google Hacking/Dorking and supports Tor) | <https://github.com/TebbaaX/Katana> ⚠️ Archived                                                      |
-| GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,307 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
+| GO Dork (fast google search result scanner)                                 | <https://github.com/dwisiswant0/go-dork> ⭐ 1,309 \| 🐛 9 \| 🌐 Go \| 📅 2024-02-04                   |
 | Snitch                                                                      | <https://github.com/Smaash/snitch> ⭐ 400 \| 🐛 1 \| 🌐 Python \| 📅 2022-04-19                       |
 | Dorks Eye                                                                   | <https://github.com/BullsEye0/dorks-eye> ⭐ 931 \| 🐛 2 \| 🌐 Python \| 📅 2026-10-01                 |
 | SQLI Dorks generator                                                        | <https://github.com/Zold1/sqli-dorks-generator> ⭐ 60 \| 🐛 1 \| 🌐 Python \| 📅 2024-12-06           |
 | DSH - Discord Server Hunter                                                 | <https://github.com/falkensmz/dsh> ⭐ 12 \| 🐛 1 \| 🌐 Python \| 📅 2022-07-29                        |
-| Dork hunter                                                                 | <https://github.com/six2dez/dorks_hunter> ⭐ 346 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-14                |
+| Dork hunter                                                                 | <https://github.com/six2dez/dorks_hunter> ⭐ 347 \| 🐛 0 \| 🌐 Python \| 📅 2026-07-14                |
 
 <a name="browserextensions"></a>
 
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
