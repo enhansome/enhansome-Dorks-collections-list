@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1930,
+            "stars": 1928,
             "topics": [
               "dorks"
             ]
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1746,
+            "stars": 1747,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 445,
+            "stars": 444,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -433,7 +433,7 @@
             "open_issues": 1,
             "owner": "Smaash",
             "repo": "snitch",
-            "stars": 400,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:38:36.416Z",
+    "last_updated": "2026-10-24T12:02:00.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2775,
+      "stars": 2777,
       "topics": [
         "awesome",
         "awesome-list",
