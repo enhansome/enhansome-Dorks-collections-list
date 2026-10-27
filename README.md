@@ -83,7 +83,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h1>Google dorks</h1>
 
-<https://github.com/BullsEye0/google_dork_list> ⭐ 1,930 | 🐛 1 | 📅 2026-10-01</br>
+<https://github.com/BullsEye0/google_dork_list> ⭐ 1,931 | 🐛 1 | 📅 2026-10-01</br>
 <https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,145 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 143 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 94 | 🐛 1 | 📅 2021-01-08</br>
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
