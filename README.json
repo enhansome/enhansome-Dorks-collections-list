@@ -177,7 +177,7 @@
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1931,
+            "stars": 1932,
             "topics": [
               "dorks"
             ]
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1313,
+            "stars": 1314,
             "topics": [
               "python"
             ]
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:23:16.733Z",
+    "last_updated": "2026-10-30T14:12:47.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
