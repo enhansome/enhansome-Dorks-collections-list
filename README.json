@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3303,
+            "stars": 3305,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 2,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1069,
+            "stars": 1070,
             "topics": [
               "baidu",
               "bing",
@@ -173,11 +173,11 @@
             "id": 205915356,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-01T19:17:04Z",
+            "last_commit": "2026-11-01T14:53:54Z",
             "open_issues": 1,
             "owner": "BullsEye0",
             "repo": "google_dork_list",
-            "stars": 1934,
+            "stars": 1937,
             "topics": [
               "dorks"
             ]
@@ -332,17 +332,17 @@
           "description": "opsdisk/pagodo",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "pagodo (Passive Google Dork) - Automate Google Hacking Database scraping and searching",
             "homepage": null,
             "id": 66045666,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-21T00:18:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-01T19:12:42Z",
+            "open_issues": 0,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3416,
+            "stars": 3414,
             "topics": [
               "bugbounty",
               "dork",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1315,
+            "stars": 1316,
             "topics": [
               "python"
             ]
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T14:17:30.852Z",
+    "last_updated": "2026-11-02T17:06:42.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2779,
+      "stars": 2782,
       "topics": [
         "awesome",
         "awesome-list",
