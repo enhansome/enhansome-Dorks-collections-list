@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3305,
+            "stars": 3306,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 2,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1070,
+            "stars": 1071,
             "topics": [
               "baidu",
               "bing",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1316,
+            "stars": 1317,
             "topics": [
               "python"
             ]
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:05:01.211Z",
+    "last_updated": "2026-11-08T14:18:57.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2786,
+      "stars": 2787,
       "topics": [
         "awesome",
         "awesome-list",
