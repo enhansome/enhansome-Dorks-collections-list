@@ -25,7 +25,7 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 <h2>Netlas dorks</h2>
 
 <https://github.com/netlas-io/netlas-dorks> ⭐ 212 | 🐛 0 | 📅 2026-04-24\
-<https://github.com/netlas-io/netlas-cookbook> ⭐ 899 | 🐛 0 | 🌐 Python | 📅 2026-09-18
+<https://github.com/netlas-io/netlas-cookbook> ⭐ 900 | 🐛 0 | 🌐 Python | 📅 2026-09-18
 
 <a name="githubdorks"></a>
 
@@ -71,7 +71,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h2>DuckDuckGo dorks</h2>
 
-<https://github.com/d34dfr4m3/goDuck> ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2019-01-11
+<https://github.com/d34dfr4m3/goDuck> ⭐ 91 | 🐛 0 | 🌐 Python | 📅 2019-01-11
 
 <a name="yandexdorks"></a>
 
@@ -83,7 +83,7 @@ https://github.com/thehappydinoa/awesome-censys-queries</br>
 
 <h1>Google dorks</h1>
 
-<https://github.com/BullsEye0/google_dork_list> ⭐ 1,942 | 🐛 1 | 📅 2026-11-05</br>
+<https://github.com/BullsEye0/google_dork_list> ⭐ 1,946 | 🐛 1 | 📅 2026-11-05</br>
 <https://github.com/sushiwushi/bug-bounty-dorks> ⭐ 2,159 | 🐛 1 | 📅 2025-12-08</br>
 <https://github.com/rootac355/SQL-injection-dorks-list> ⭐ 144 | 🐛 0 | 📅 2018-05-12</br>
 <https://github.com/unexpectedBy/SQLi-Dork-Repository> ⭐ 93 | 🐛 1 | 📅 2021-01-08</br>
@@ -302,4 +302,4 @@ Thank you for following me! [@cyb\_detective](https://cybdetective.com)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
