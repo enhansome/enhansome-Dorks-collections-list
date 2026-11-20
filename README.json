@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3310,
+            "stars": 3309,
             "topics": [
               "dork",
               "dorker",
@@ -135,7 +135,7 @@
             "open_issues": 2,
             "owner": "Zarcolio",
             "repo": "sitedorks",
-            "stars": 1074,
+            "stars": 1073,
             "topics": [
               "baidu",
               "bing",
@@ -200,7 +200,7 @@
             "open_issues": 6,
             "owner": "IvanGlinkin",
             "repo": "Fast-Google-Dorks-Scan",
-            "stars": 1744,
+            "stars": 1743,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 448,
+            "stars": 446,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -342,7 +342,7 @@
             "open_issues": 0,
             "owner": "opsdisk",
             "repo": "pagodo",
-            "stars": 3418,
+            "stars": 3416,
             "topics": [
               "bugbounty",
               "dork",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "c4tcom",
             "repo": "Katana",
-            "stars": 1320,
+            "stars": 1319,
             "topics": [
               "python"
             ]
@@ -398,7 +398,7 @@
             "open_issues": 9,
             "owner": "dwisiswant0",
             "repo": "go-dork",
-            "stars": 1312,
+            "stars": 1311,
             "topics": [
               "bing-dorks",
               "bugbounty",
@@ -433,7 +433,7 @@
             "open_issues": 1,
             "owner": "Smaash",
             "repo": "snitch",
-            "stars": 399,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -454,7 +454,7 @@
             "open_issues": 2,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 940,
+            "stars": 939,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -520,7 +520,7 @@
             "open_issues": 0,
             "owner": "six2dez",
             "repo": "dorks_hunter",
-            "stars": 350,
+            "stars": 349,
             "topics": [
               "bugbounty",
               "dorks",
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:35:33.333Z",
+    "last_updated": "2026-11-20T16:10:59.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2796,
+      "stars": 2795,
       "topics": [
         "awesome",
         "awesome-list",
