@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T19:15:59.349Z",
+    "last_updated": "2026-11-24T18:54:44.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
@@ -551,7 +551,7 @@
       "open_issues": 2,
       "owner": "cipher387",
       "repo": "Dorks-collections-list",
-      "stars": 2798,
+      "stars": 2799,
       "topics": [
         "awesome",
         "awesome-list",
