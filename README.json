@@ -44,7 +44,7 @@
             "open_issues": 10,
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3311,
+            "stars": 3310,
             "topics": [
               "dork",
               "dorker",
@@ -302,7 +302,7 @@
             "open_issues": 2,
             "owner": "powerexploit",
             "repo": "Ashok",
-            "stars": 448,
+            "stars": 447,
             "topics": [
               "banner-grabbing",
               "cmsdetecter",
@@ -454,7 +454,7 @@
             "open_issues": 2,
             "owner": "BullsEye0",
             "repo": "dorks-eye",
-            "stars": 947,
+            "stars": 949,
             "topics": []
           },
           "first_seen": "2026-08-28T19:27:22.386Z"
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:28:49.732Z",
+    "last_updated": "2026-11-28T16:12:35.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Github repositories and articles with list of dorks for different search engines",
